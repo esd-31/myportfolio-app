@@ -1,0 +1,88 @@
+
+$primary--color: #1B9C85;
+$light--color: #ffffff;
+
+
+.about-container {
+    font-family: Arial, Helvetica, sans-serif;
+
+    .about-content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .my-gradpic > img{
+        width: 600px;
+        position: relative;
+    }
+    .grad-info {
+        position: absolute;
+        left: 45%;
+        top: 110%;
+        width: 600px;
+        background-color: $primary--color;
+        height: 20vh;
+        padding: 40px;
+        border-radius: 10px;
+        box-shadow: 4px 5px 9px $primary--color;
+    }
+    .grad-info > small {
+        color: $light--color;
+        font-size: 21px;
+        margin-top: 10%;
+    }
+    .hr-separator {
+        display: flex;
+        justify-content: center;
+        gap: 3em;
+        margin-top: 5%;
+    }
+    .hr-separator > hr {
+        width: 500px;
+    }
+    .ojt-container {
+        margin-top: 10%;
+        background-color: $light--color;
+        padding: 20px;
+    }
+    .ojt-title > h1 {
+        color: $primary--color;
+        text-align: center;
+    }
+    .ojt-images-content {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        justify-content: center;
+        align-items: center;
+        gap: 2em;
+        margin-top: 5%;
+        position: relative;
+    }
+    .ojt-images > img {
+        width: 300px;
+        height: 40vh;
+        border-radius: 10px;
+        object-fit: cover;
+        cursor: zoom-in;
+        // position: absolute;
+        // z-index: 1;
+    }
+    .ojt-images > img:hover {
+        filter: grayscale(60%);
+    }
+    .btn-load > button {
+        padding: 20px;
+        width: 200px;
+        border: none;
+        font-weight: bolder;
+        border: solid 2px $primary--color;
+        background-color: $primary--color;
+        color: $light--color;
+        cursor: pointer;
+    }
+    .btn-load > button:hover {
+        transform: scale(1.2);
+    }
+
+    
+}

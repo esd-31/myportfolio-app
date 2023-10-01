@@ -1,0 +1,75 @@
+$primary--color: #1B9C85;
+$light--color: #ffffff;
+
+.projects-container {
+
+    .dev-logo {
+        display: flex;
+        align-items: center;
+        gap: 10em;
+    }
+    .dev-logo > img {
+        width: 600px;
+        height: 100vh;
+        padding: 50px;
+        object-fit: cover;
+    }
+
+    .projects-content > h1 {
+        font-size: 51px;
+        color: $primary--color;
+        background-color: #000;
+        padding: 10px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+
+    }
+    .projects-content {
+        margin-top: 2%;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: $light--color;
+        width: 600px;
+        border-top-left-radius: 200px;
+    }
+    .my-projects {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1em;
+    }
+    .projects-content:hover {
+        background-color: $light--color;
+    }
+    .my-projects > img {
+        width: 250px;
+    }
+    .my-projects > img:hover {
+        box-shadow: 4px 9px 5px $primary--color;
+        transform: scale(1.1);
+    }
+    .my-projects > strong {
+        color: $primary--color;
+        font-family: cursive;
+    }
+    .github-icon {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        padding: 15px;
+        gap: 10px;
+        cursor: pointer;
+    }
+    .github-icon > a {
+        color: $light--color;
+        text-decoration: 4px solid $primary--color underline;
+        font-weight: bolder;
+        font-size: 35px;
+    }
+    .github-icon > svg {
+        font-size: 50px;
+        color: #ffffff;
+    }
+}
