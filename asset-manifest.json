@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/myportfolio-app/static/css/main.97d8577c.css",
+    "main.js": "/myportfolio-app/static/js/main.281ecb87.js",
+    "static/media/dev_3D.png": "/myportfolio-app/static/media/dev_3D.9e17c80d068554039049.png",
+    "static/media/Ry6p.gif": "/myportfolio-app/static/media/Ry6p.6bf8eb6441c2abd2dafc.gif",
+    "static/media/ojt_img_one.jpg": "/myportfolio-app/static/media/ojt_img_one.638907dc5fac756a41c3.jpg",
+    "static/media/ojt_img_two.jpg": "/myportfolio-app/static/media/ojt_img_two.1973cedf646bff0fcbd0.jpg",
+    "static/media/ojt_img_six.jpg": "/myportfolio-app/static/media/ojt_img_six.9d185e1779dc238d6241.jpg",
+    "static/media/ojt_img_five.jpg": "/myportfolio-app/static/media/ojt_img_five.292830f0789c3de31850.jpg",
+    "static/media/ojt_img_four.jpg": "/myportfolio-app/static/media/ojt_img_four.4937a47ebc58e9a56f55.jpg",
+    "static/media/ojt_img_nine.jpg": "/myportfolio-app/static/media/ojt_img_nine.ff77379edc1b88a7e49e.jpg",
+    "static/media/FE_GB_ONE.png": "/myportfolio-app/static/media/FE_GB_ONE.f6403987ab2291ee40b7.png",
+    "static/media/ojt_img_three.jpg": "/myportfolio-app/static/media/ojt_img_three.4b4bb21d08391edac042.jpg",
+    "static/media/ojt_img_eleven.jpg": "/myportfolio-app/static/media/ojt_img_eleven.977091fb981100d1051d.jpg",
+    "static/media/FE_SL_ONE.png": "/myportfolio-app/static/media/FE_SL_ONE.3d00001c2d74de2749ab.png",
+    "static/media/esd_coding.jpg": "/myportfolio-app/static/media/esd_coding.a3a59771ce201e4e26cc.jpg",
+    "static/media/ojt_img_seven.jpg": "/myportfolio-app/static/media/ojt_img_seven.b7de7ae9bb085bc1cffe.jpg",
+    "static/media/ojt_img_ten.jpg": "/myportfolio-app/static/media/ojt_img_ten.938f5012d98b10ee1bdb.jpg",
+    "static/media/ojt_img_eight.jpg": "/myportfolio-app/static/media/ojt_img_eight.5b19dcbab24784e7413e.jpg",
+    "static/media/dev_eduard.jpg": "/myportfolio-app/static/media/dev_eduard.9d8dbbfae99fb080ef51.jpg",
+    "static/media/FE_RELX_ONE.png": "/myportfolio-app/static/media/FE_RELX_ONE.7edbf908bee8dab98d1d.png",
+    "static/media/FE_OXVA_ONE.png": "/myportfolio-app/static/media/FE_OXVA_ONE.acfe338ae493019b765f.png",
+    "static/media/grad_pic.jpg": "/myportfolio-app/static/media/grad_pic.081b4cb3be106991432a.jpg",
+    "index.html": "/myportfolio-app/index.html",
+    "main.97d8577c.css.map": "/myportfolio-app/static/css/main.97d8577c.css.map",
+    "main.281ecb87.js.map": "/myportfolio-app/static/js/main.281ecb87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97d8577c.css",
+    "static/js/main.281ecb87.js"
+  ]
+}
